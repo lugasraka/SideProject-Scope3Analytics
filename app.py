@@ -17,7 +17,7 @@ from plotly.subplots import make_subplots
 
 def load_data():
     """Load training data from CSV"""
-    return pd.read_csv('df_train-new-location.csv')
+    return pd.read_csv('https://github.com/lugasraka/SideProject-Scope3Analytics/blob/fe5f47720fe8059e77b96f0c9dee2d6415c68570/df_train-new-location.csv?raw=true')
 
 def train_model(df, model_name='Random Forest'):
     """Trains the selected Estimator"""
