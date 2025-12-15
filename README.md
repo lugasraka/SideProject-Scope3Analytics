@@ -167,7 +167,7 @@ Based on the current dataset (10,000+ buildings):
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SideProject-Scope3Analytics.git
+git clone https://github.com/lugasraka/SideProject-Scope3Analytics.git
 cd SideProject-Scope3Analytics
 ```
 
