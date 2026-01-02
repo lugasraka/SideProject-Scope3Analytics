@@ -6,6 +6,8 @@
 
 An AI-powered web application for estimating and optimizing Scope 3 upstream embodied carbon emissions in building portfolios. Built with machine learning models to help facility managers make data-driven sustainability decisions.
 
+## 🚀 [**Try the Live Demo**](https://huggingface.co/spaces/lugasraka/Scope3BuildingAnalytics)
+
 ---
 
 ## 📋 Problem Statement
